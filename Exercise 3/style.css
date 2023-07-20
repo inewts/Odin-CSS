@@ -1,1 +1,10 @@
-
+#but1{
+    background-color: black;
+    color: white;
+}
+#but2{
+    background-color: yellow;
+}
+#but1, #but2{
+    padding: 20px;
+}
